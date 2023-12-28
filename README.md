@@ -5,7 +5,7 @@ Destructibility is simulated by a physics engine called Digital Molecular Matter
 
 The map was originally created by [robixn](https://www.youtube.com/watch?v=n-azqcnHBQM) in 2010 year.
 
-For a comfortable game we recommend the Chromium x64 version of the game along with the installed enhanced physics engine VPhysics Jolt.
+<!-- For a comfortable game we recommend the Chromium x64 version of the game along with the installed enhanced physics engine VPhysics Jolt.
 
 Map name: phys_dmmhouse  
 Bind to restore: bind `<key>` gmod_admin_cleanup  
@@ -30,4 +30,4 @@ If you have a non-licensed version of the game, you will have to suffer lags
 ## Acknowledgements
 
 Highly recommend VPhysics Jolt for best overall game performance!  
-Thanks a lot to [Nicolai Seven](https://steamcommunity.com/id/nicolai_seven) for providing a great addon on destructible props for [Half-Life 2](https://steamcommunity.com/sharedfiles/filedetails/?id=767948098) and [CS:Source](https://steamcommunity.com/sharedfiles/filedetails/?id=2701419409)
+Thanks a lot to [Nicolai Seven](https://steamcommunity.com/id/nicolai_seven) for providing a great addon on destructible props for [Half-Life 2](https://steamcommunity.com/sharedfiles/filedetails/?id=767948098) and [CS:Source](https://steamcommunity.com/sharedfiles/filedetails/?id=2701419409) -->
