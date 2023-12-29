@@ -30,4 +30,7 @@ If you have a non-licensed version of the game, you will have to suffer lags
 ## Acknowledgements
 
 Highly recommend VPhysics Jolt for best overall game performance!  
-Thanks a lot to [Nicolai Seven](https://steamcommunity.com/id/nicolai_seven) for providing a great addon on destructible props for [Half-Life 2](https://steamcommunity.com/sharedfiles/filedetails/?id=767948098) and [CS:Source](https://steamcommunity.com/sharedfiles/filedetails/?id=2701419409) -->
+Thanks a lot to [Nicolai Seven](https://steamcommunity.com/id/nicolai_seven) for providing a great addon on destructible props for [Half-Life 2](https://steamcommunity.com/sharedfiles/filedetails/?id=767948098) and [CS:Source](https://steamcommunity.com/sharedfiles/filedetails/?id=2701419409) 
+
+Remember: [Write comment](https://steamcommunity.com/id/scorbiumthe4th) with release this map in steamworkshop
+-->
